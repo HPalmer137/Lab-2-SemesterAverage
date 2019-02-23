@@ -1,0 +1,12 @@
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\bin\Debug\Lab2_SemesterAverage.exe.config
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\bin\Debug\Lab2_SemesterAverage.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\bin\Debug\Lab2_SemesterAverage.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\bin\Debug\Lab2_SemesterAverage.xml
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.vbprojAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.frmSemesterAverage.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.vbproj.GenerateResource.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.vbproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.xml
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab2_SemesterAverage\Lab2_SemesterAverage\obj\Debug\Lab2_SemesterAverage.pdb
